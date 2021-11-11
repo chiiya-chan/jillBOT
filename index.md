@@ -1,4 +1,4 @@
-# Welcome to **Jill BOT's Website**
+# Welcome to **Jill BOT's Site**
 ![Image](https://cdn.discordapp.com/attachments/901781534695100416/908184408274657310/0F6E45C73E3DF31C0FE37F220EC7296035EC35CA.png)
 
 [Invite Jill BOT to your server!](https://discord.com/api/oauth2/authorize?client_id=901876393867092060&permissions=3489983526&scope=bot%20applications.commands) 
@@ -135,7 +135,7 @@ Invite: Send an invite link to invite Jill BOT into your server.
 
 ### **DEVELOPER'S WORDS**
 > When she got her first invite from people other than me, I was over the moon. And I thought, “let’s improve the bot even more so that I can satisfy all users.” I know nothing is perfect so it was a perfect chance to keep adding things, and the only limit is my creativity. Now it does a lot of things that I did not originally intend it to do, and they’re not really fitting with a “bartender bot”, but others seem to enjoy it. And I’m glad they do. 
-I, as the developer, want to make your experience as good as it can get. So the bot will keep evolving. One day we will have a database that stores all the drinks. One day, maybe we can get a website up. One day, maybe Jill BOT will be verified, and one day, she will be a bot with little to no flaws, and a huge user base. But that one day will never come if I stop innovating, stop improving and be easily content with what I have done. For that reason, I am very eager to hear your side of the story, about your experience with the bot. 
+I, as the developer, want to make your experience as good as it can get. So the bot will keep evolving. One day we will have a database that stores all the drinks. One day, maybe we can get a premium website up. One day, maybe Jill BOT will be verified, and one day, she will be a bot with little to no flaws, and a huge user base. But that one day will never come if I stop innovating, stop improving and be easily content with what I have done. For that reason, I am very eager to hear your side of the story, about your experience with the bot. 
 > I’m willing to open my main email for suggestions even, but that would be a tad messy, so you can directly join my [support server](https://discord.gg/YgGUMvVsk7) until I get a new usable email. Because I don’t want to use a fake number and my main number is already used for too many accounts, this is the most I can do for now. I hope you don’t mind.
 
 > Since the bot still has flaws to fix and space for improvement, I will not be taking any donations. Only when I think the bot is operating well enough will I consider having a donation link on. It is my principle that I will not take what I have not deserved (yet). And as I said, it is a passion project, I did not have anything on making profit. Having Jill BOT working is all the rewards I wanted in the first place. 
@@ -147,7 +147,7 @@ I, as the developer, want to make your experience as good as it can get. So the 
 
 > One major problem though, is that I cannot figure/have not figured out a way to make it more customizable. I will be working with some others who know how to manipulate cloud data and figure out this issue. I did code her using Javascript and it is indeed not as good in cloud storage manipulation. But in any case, I will find a way to resolve this issue.
 
-> Finally, the part that I am partly not at fault - announcements. I will be devising a way to send announcements to all servers when commands are updated or when issues are found, etc. It however only became an issue because top.gg would not let me post my announcements on her site. This is exactly why I want a Website, but I am not confident I can host that, so I will find a way later.
+> Finally, the part that I am partly not at fault - announcements. I will be devising a way to send announcements to all servers when commands are updated or when issues are found, etc. It however only became an issue because top.gg would not let me post my announcements on her site. This is exactly why I want a Website, but I am not confident I can host that, so I will find a way later. For now, Git is the best I can offer.
 
 
 ### Support or Contact
