@@ -16,6 +16,7 @@ For image credits that are not shown when using the commands, please refer to [t
 
 
 *From* **: Jill#0627** 
+
 This file is dedicated to running you through all commands of the bot and their functions. I figured it would be best if I could just add this function into the bot, which I 100% will do in the near future, but just to add some fun trivias and more information that you might need, I’m writing this file instead. And more information will be added. In short, this is a fully elaborate file while the functions I am going to add into the bot are going to be a simplified version.
 
 ![Image](https://images-ext-1.discordapp.net/external/x22bhKRN9zFYe0cj6VANggrTaOuSx6Wp1cX07TcqozI/https/64.media.tumblr.com/967bf30d257f382e7f0faab46a280905/dc4d6f44c4ecd4ed-2d/s640x960/cc447b5f6be939d61023c4f890f0e013a488f6e1.jpg)
