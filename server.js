@@ -3023,4 +3023,4 @@ let a = ["kms","kill myself","suicide","self-harm","self harm","commit not alive
 
 
 
-client.login(OTAxODc2MzkzODY3MDkyMDYw.YXWP2A.AS5AHbBO6SSatnPBXgorZ6lP6K4);
+client.login(token)
