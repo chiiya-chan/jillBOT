@@ -7,11 +7,11 @@ To maintain access to Jill BOT's newest features, please update the BOT's permis
 
 For image credits that are not shown when using the commands, please refer to [this link.](https://docs.google.com/document/d/1grVXcwfi65wQvDjH-w6I-skyZv8H6eji1R72fM1Ctvg/edit?usp=sharing)
 
-## ANNOUNCEMENTS
+## **ANNOUNCEMENTS**
 [11/11/2021]
 - Permissions updated, please type `jill!invite` to refresh. **You can still use most of the functions without the updated permissions, so consider them carefully.**
 
-### FOREWORDS
+## **FOREWORDS**
 
 
 *From* **: Jill#0627** 
@@ -27,12 +27,12 @@ It takes me days working to get the bot up and running even after all the coding
 At the start of all things, there were seemingly countless errors and I just could not fix them all. It was a very stressful experience for me because I also submitted her to **top.gg**. In the end, she passed the functionality tests and was allowed.
 
 
-## USER MANUALS
+## **USER MANUALS**
 
 _Every command starts with “jill!”, a.k.a the prefix, except for auto responses. So please understand that when I write a command in here, you need to manually add the prefix. Commands are not case-sensitive so you can type it in whichever way, just don’t add unnecessary spaces and it is going to work._
 [Image]https://cdn.discordapp.com/attachments/901781534695100416/908183467571957821/unknown.png
 
-### MENU
+### **MENU**
 *This is the reason why I made Jill BOT in the first place*
 - Menu: Open the menu of drinks! It’s a miracle there.
 
@@ -40,7 +40,7 @@ _Every command starts with “jill!”, a.k.a the prefix, except for auto respon
 
 - Seasonal: Open the menu of seasonal drinks (these are only available through certain periods)
 
-### MODERATION COMMANDS
+### **MODERATION COMMANDS**
 
 - Ban: ban a member. Please mention the member you want to ban. 
 
@@ -54,7 +54,7 @@ _Every command starts with “jill!”, a.k.a the prefix, except for auto respon
 
 - Deleterole: deleting a role. Type the name of the role you want to create after the command. Please note that it cannot delete roles with emojis in the name. If you want to delete roles that do, please manually delete them.
 
-### UTILITIES COMMANDS
+### **UTILITIES COMMANDS**
 
 - Help: Show the list of commands.
 
@@ -73,7 +73,7 @@ Invite: Send an invite link to invite Jill BOT into your server.
 
 - Urban: Search something in the urban dictionary
 
-### FUN COMMANDS
+### **FUN COMMANDS**
 
 - Say: Make the bot say something for you (FUNCTION DEPRECATED DUE TO POTENTIAL ABUSE)
 
@@ -119,7 +119,7 @@ Invite: Send an invite link to invite Jill BOT into your server.
 
 
 
-### ABBREVIATIONS/SHORTER COMMANDS
+### **ABBREVIATIONS/SHORTER COMMANDS**
 
 - Abbreviations/Abb: This is to access the directory of abbreviations. For instance, imagequote can be imgq, and decide can just be dc, etc. 
 
@@ -128,19 +128,19 @@ Invite: Send an invite link to invite Jill BOT into your server.
 
 ![Image](https://cdn.discordapp.com/attachments/901781534695100416/908193165197054023/unknown.png)
 
-## DEPRECATIONS
+### **DEPRECATIONS**
 
 > As a developer, I often find myself having too much fun with the codes, so some functions might go overboard on what they can do to a person or to others and become not nearly as fun as intended. This includes the “say” and “ghostping” commands, which reportedly have been used very abusively towards others. It is only a bot, but I want to make sure no harm could be done by using this bot. Hence I will deprecate any functions that are reported to be harmful, of course not without evidence. The functions will stay up for at most until 2 weeks later in the command list but they will not be usable.
 
 
-### **DEVELOPER'S WORDS**
+## **DEVELOPER'S WORDS**
 > When she got her first invite from people other than me, I was over the moon. And I thought, “let’s improve the bot even more so that I can satisfy all users.” I know nothing is perfect so it was a perfect chance to keep adding things, and the only limit is my creativity. Now it does a lot of things that I did not originally intend it to do, and they’re not really fitting with a “bartender bot”, but others seem to enjoy it. And I’m glad they do. 
 I, as the developer, want to make your experience as good as it can get. So the bot will keep evolving. One day we will have a database that stores all the drinks. One day, maybe we can get a premium website up. One day, maybe Jill BOT will be verified, and one day, she will be a bot with little to no flaws, and a huge user base. But that one day will never come if I stop innovating, stop improving and be easily content with what I have done. For that reason, I am very eager to hear your side of the story, about your experience with the bot. 
 > I’m willing to open my main email for suggestions even, but that would be a tad messy, so you can directly join my [support server](https://discord.gg/YgGUMvVsk7) until I get a new usable email. Because I don’t want to use a fake number and my main number is already used for too many accounts, this is the most I can do for now. I hope you don’t mind.
 
 > Since the bot still has flaws to fix and space for improvement, I will not be taking any donations. Only when I think the bot is operating well enough will I consider having a donation link on. It is my principle that I will not take what I have not deserved (yet). And as I said, it is a passion project, I did not have anything on making profit. Having Jill BOT working is all the rewards I wanted in the first place. 
 
-### Other miscellaneous Issues
+### **OTHER MISCELLANEOUS**
 > I would also like to point out that in these earlier stages of the bot, downtimes are a struggle. Whenever I add something, it will probably be rebooted and have some delays. For that, I intend to clone the bot into a test bot to check functionality first. In fact, I already kind of did. Still, after replacing/editing the codes, it is going to take a while, roughly 20 seconds of downtime until the bot operates normally. I will try to manage this issue and reduce the downtime. For now, I will try my best to have her operating at least 95% of the time per day. 
 
 > Another issue that I have been seeing is that the ping/latency value from the bot might be different to other bots. I am not sure how this comes to happen as I am not a networking expert, but I have some guesses that it is due to the location that I host the bot on. I am still very unsure about it, it could be anything else. I don’t think this problem is worrying, but I do think I need to point it out.
@@ -154,7 +154,7 @@ I, as the developer, want to make your experience as good as it can get. So the 
 
 Having trouble with Jill BOT? Contact me via my support [server.](https://discord.gg/YgGUMvVsk7)
 
-## CREDITS & MORE INFORMATION
+### CREDITS & MORE INFORMATION
 All the artists and their artworks are credited in the footers of the embeds. I own none of the arts made. Image for the jill!pat command belongs to **Lea Orris#3109**, one of my dearest friends and one of the nicest people in the world. 
 Artwork credits that cannot appear on the codes due to code reasons: [ARTWORK CREDITS](https://docs.google.com/document/d/1grVXcwfi65wQvDjH-w6I-skyZv8H6eji1R72fM1Ctvg/edit?usp=sharing)
 
