@@ -8,6 +8,8 @@ To maintain access to Jill BOT's newest features, please update the BOT's permis
 For image credits that are not shown when using the commands, please refer to [this link.](https://docs.google.com/document/d/1grVXcwfi65wQvDjH-w6I-skyZv8H6eji1R72fM1Ctvg/edit?usp=sharing)
 
 ## **ANNOUNCEMENTS**
+[13/11/2021] 
+- Added command (emockify)
 
 [11/11/2021]
 - Permissions updated, please type `jill!invite` to refresh. **You can still use most of the functions without the updated permissions, so consider them carefully.**
@@ -119,6 +121,7 @@ Invite: Send an invite link to invite Jill BOT into your server.
 
 - Mock: mAKeS yoUr tExT lOoK LikE tHIS 
 
+- Emockify: Basically it is mock + 
 
 
 ### **ABBREVIATIONS/SHORTER COMMANDS**
