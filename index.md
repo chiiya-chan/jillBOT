@@ -15,6 +15,7 @@ For image credits that are not shown when using the commands, please refer to [t
 - Permissions updated, please type `jill!invite` to refresh. **You can still use most of the functions without the updated permissions, so consider them carefully.**
 
 ## **FUTURE UPDATES NOTE**
+
 - Due to the inconsistencies of slash commands, this feature will not be implemented until all testing goes 100% smoothly. This is to reduce the most potential downtime for the bot in order to not affect any services. 
 
 ## **FOREWORDS**
