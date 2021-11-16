@@ -8,6 +8,8 @@ To maintain access to Jill BOT's newest features, please update the BOT's permis
 For image credits that are not shown when using the commands, please refer to [this link.](https://docs.google.com/document/d/1grVXcwfi65wQvDjH-w6I-skyZv8H6eji1R72fM1Ctvg/edit?usp=sharing)
 
 ## **ANNOUNCEMENTS**
+[16/11/2021]
+- Added Slash Commands (See **slash commands** in the user manuals section)
 [15/11/2021]
 - Added commands (dice, spoiler)
 [13/11/2021] 
@@ -38,6 +40,19 @@ At the start of all things, there were seemingly countless errors and I just cou
 
 
 ## **USER MANUALS**
+
+### **SLASH COMMANDS**
+_Added slash commands for more interactability between you and the bot_
+**UTILITIES SLASH COMMANDS**
+- /permissions: Shows what permissions are needed for the bot
+- /site: Link to the bot's website and top.gg page
+- /ping: Pong!
+**FUN SLASH COMMANDS**
+- /vaporwave: Ｔｈｉｓ ｉｓ ｎｉｃｅ．
+- /8ball: Ask the magic 8ball a question!
+**KAOMOJI**
+- Everything else are kaomojis, which you can distinguish by their descriptions being just kaomojis.
+
 
 _Every command starts with “jill!”, a.k.a the prefix, except for auto responses. So please understand that when I write a command in here, you need to manually add the prefix. Commands are not case-sensitive so you can type it in whichever way, just don’t add unnecessary spaces and it is going to work._
 [Image]https://cdn.discordapp.com/attachments/901781534695100416/908183467571957821/unknown.png
