@@ -10,8 +10,10 @@ For image credits that are not shown when using the commands, please refer to [t
 ## **ANNOUNCEMENTS**
 [16/11/2021]
 - Added Slash Commands (See **slash commands** in the user manuals section)
+
 [15/11/2021]
 - Added commands (dice, spoiler)
+
 [13/11/2021] 
 - Added command (emockify)
 
